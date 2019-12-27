@@ -1,4 +1,4 @@
 # Prasanna-Gade
-My Repositor
+Repository is mine!
 
 Hello this is my Reporsitoty.
