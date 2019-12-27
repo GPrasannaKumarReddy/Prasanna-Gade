@@ -1,2 +1,4 @@
 # Prasanna-Gade
-My Repository
+Repository is mine!
+
+Hello this is my Reporsitoty.
